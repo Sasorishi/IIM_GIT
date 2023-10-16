@@ -1,7 +1,7 @@
 # IIM_A2_GIT
 
 Alban ON
-Aymen Benammour
+Ayman BENAMMOUR
 
 # ISSUE 1
 
